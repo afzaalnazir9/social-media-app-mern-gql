@@ -15,6 +15,12 @@
 - React Router **v6**
 - **Validator**
 
+## Project setup
+
+Install npm packages in root server and in client folder using **npm install**.
+Create env file in root folder.
+Create **uploads** folder in root folder for multer and cloudinary file mangement.
+
 ## ENV SETUP
 
 Add env files in root folder and add following details
